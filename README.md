@@ -1,1 +1,2 @@
 # Unit-6-Giphy
+Click the dog breed of your choice to see a collection of gifs. Click the image to make it move, click again to stop movement. Type in the text box to request a new dog breed tag and selection of gifs. 
